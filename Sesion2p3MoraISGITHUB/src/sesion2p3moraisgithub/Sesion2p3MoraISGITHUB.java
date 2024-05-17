@@ -16,7 +16,10 @@ public class Sesion2p3MoraISGITHUB {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("PRUEBA DE GITHUB MORA");
+        System.out.println("PRUEBA DE GITHUB 1 MORA");
+        System.out.println("PRUEBA DE GITHUB 2 MARTINEZ");
+        System.out.println("PRUEBA DE GITHUB 3 EDGAR");
+        System.out.println("PRUEBA DE GITHUB 4 JAEL");
     }
     
 }
